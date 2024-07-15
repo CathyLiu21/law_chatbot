@@ -1,9 +1,9 @@
 # 📦 Streamlit App Starter Kit 
 ```
-⬆️ (Replace above with your app's name)
+⬆️ ERISA Lawsuits Chatbot
 ```
 
-Description of the app ...
+Coming soon! Under development 
 
 ## Demo App
 
