@@ -8,4 +8,4 @@ openai==1.35.14
 pandas
 numpy
 openpyxl
-protobuf==3.20.x
+protobuf==3.20.0
