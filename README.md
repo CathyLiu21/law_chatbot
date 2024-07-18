@@ -7,7 +7,7 @@ Coming soon! Under development
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://lawchatbot-s6ugklopkmgnxuujmypvcm.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://lawchatbot-fzsdigciishywpbzmdox4p.streamlit.app/)
 
 ## GitHub Codespaces
 
