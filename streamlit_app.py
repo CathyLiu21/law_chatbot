@@ -13,3 +13,5 @@ from langchain.prompts import PromptTemplate
 from langchain.chains import RetrievalQA
 import openai #1.35.14
 
+st.set_page_config(page_title="ERISA Litigation and Vanguard Client Assistant", page_icon="🦙", layout="centered", initial_sidebar_state="auto", menu_items=None)
+st.title('ERISA Litigation and Vanguard Client Assistant')
