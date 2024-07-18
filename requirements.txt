@@ -1,7 +1,7 @@
 streamlit>=1.26.0
 langchain_openai==0.1.16
 lark 
-langchain-chroma==0.1.2
+langchain_chroma==0.1.2
 langchain==0.2.9
 langchain_community==0.2.7
 openai==1.35.14
