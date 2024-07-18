@@ -1,3 +1,10 @@
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
+
+
+
 import streamlit as st
 from langchain_chroma import Chroma #0.1.2
 from langchain.chains.query_constructor.base import AttributeInfo #0.2.9, langchain-community==0.2.7
