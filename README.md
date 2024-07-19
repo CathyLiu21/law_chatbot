@@ -16,5 +16,4 @@ This assistant can extract and summarize information for recent ERISA litigation
 
 ## Snapshot of the App 
 
-!(images/law_chatbot.png)
-
+![alt text](images/law_chatbot.png)
