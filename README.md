@@ -1,9 +1,9 @@
-# 📦 Streamlit App Starter Kit 
+# 📦  ERISA Litigation and Client Assistant with RAG-Based LLMs
 ```
-⬆️ ERISA Litigation and Client Assistant with RAG-Based LLMs
+⬆️ Welcome to ERISA Litigation and Client Assistant!
 ```
 
-Welcome to ERISA Litigation and Client Assistant! This assistant can extract and summarize information for recent ERISA litigations, answer specific questions and identify potentional clients for a fake financial service company called SummitGuard Captial. 
+This assistant can extract and summarize information for recent ERISA litigations, answer specific questions and identify potentional clients for a fake financial service company called SummitGuard Captial. 
 
 
 ## Demo App
@@ -16,5 +16,5 @@ Welcome to ERISA Litigation and Client Assistant! This assistant can extract and
 
 ## Snapshot of the App 
 
-![alt text](http://url/to/img.png)
+!(images/law_chatbot.png)
 
