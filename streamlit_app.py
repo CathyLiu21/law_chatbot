@@ -37,7 +37,7 @@ def main():
         - Summarize the reason for the XX ERISA lawsuit briefly.
         - Summarize one piece of news found in May 2024 in the database.
         - Find the URL of XX ('title' or company name) ERISA lawsuit in the metadata.
-        - What's the title of the lawsuit on March 18, 2024 in your database?
+        - What's the title of the news of the lawsuit on March 18, 2024 in your database?
         """
     )
     st.markdown('''
