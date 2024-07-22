@@ -4,7 +4,8 @@
 ```
 
 This assistant can extract and summarize information for recent ERISA litigations, answer specific questions and identify potentional clients for a fake financial service company called SummitGuard Captial. 
-It has two functionalities: ERISA Litigation Chat and Web Article Summarization. 
+
+It has two functionalities: *ERISA Litigation Chat* and *Web Article Summarization*. *ERISA Litigation Chat* is for chatting with the Assistnat, and *Web Article Summarization* is used to generate a summary report for the given ERISA litigation news. The url of the news is requred. 
 
 
 ## Demo App
@@ -17,9 +18,9 @@ It has two functionalities: ERISA Litigation Chat and Web Article Summarization.
 
 ## Snapshot of the App 
 
-main interface: ![alt text](images/law_chatbot1.png)
+### main interface: ![alt text](images/law_chatbot1.png)
 
-ERISA Litigation Chat: ![alt text](images/law_chatbot2.png)
+### ERISA Litigation Chat: ![alt text](images/law_chatbot2.png)
 
-Web Article Summarization: ![alt text](images/law_chatbot3.png)
+### Web Article Summarization: ![alt text](images/law_chatbot3.png)
 
