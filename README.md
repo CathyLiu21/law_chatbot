@@ -26,4 +26,5 @@ It has two functionalities: *ERISA Litigation Chat* and *Web Article Summarizati
 
 ### Data 
 ERISA litigation news: url1 = "https://docs.google.com/spreadsheets/d/1ONQo3Ep0m91Xc8r2aHq0hYkrS7MJxIiA/edit?usp=sharing&ouid=101885794421148722340&rtpof=true&sd=true
+
 Clients list of SummitGuard (simulated): https://drive.google.com/file/d/1O2Mif1J5BXndCtH-CtY4ZpqBoaozWyOx/view?usp=sharing
